@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.navbar-brand {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+#scrollspyHeading5 {
+  border: 2px solid black;
+  border-width: 1;
+  border-radius: 5px;
+  text-align: center;
+  margin: auto;
+}
+.mx-auto {
+  text-align: center;
+  table-layout: auto;
+}
+#scrollspyHeading1 {
+  text-align: center;
+}
